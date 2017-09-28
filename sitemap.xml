@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://saskali.github.io/blogs/categories/</loc>
+    <loc>https://saskali.github.io/blog/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://saskali.github.io/blogs/</loc>
+    <loc>https://saskali.github.io/blog/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://saskali.github.io/blogs/tags/</loc>
+    <loc>https://saskali.github.io/blog/tags/</loc>
     <priority>0</priority>
   </url>
   
