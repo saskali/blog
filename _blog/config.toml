@@ -1,5 +1,5 @@
 baseURL = "https://saskali.github.io/blog/"
 languageCode = "en-us"
 title = "My New Hugo Site"
-theme = "cactus-plus"
+theme = "simple-a"
 publishDir = "../blog"
