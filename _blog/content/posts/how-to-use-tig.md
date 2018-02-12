@@ -52,5 +52,5 @@ u             | move code between staging area and working directory |
 
 ### I want to learn more about tig 
 
-Yes, tig can do much more. If you're simply looking for a more interactive way of making commits, these simple steps can get you to a more efficient work flow. For more information, check out this [cheatsheet](https://devhints.io/tig) and find more detailed information on [tig's website](https://jonas.github.io/tig/). 
+Yes, tig can do much more. If you're simply looking for a more interactive way of making commits, these simple steps can get you to a more efficient work flow. For more information, check out this [cheatsheet](https://devhints.io/tig) and find more detailed information on [tig's website](https://jonas.github.io/tig/).
 
