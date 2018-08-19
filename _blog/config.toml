@@ -1,4 +1,6 @@
 baseURL = "https://saskali.github.io/blog/"
+relativeurls = true
+sourceRelativeLinksEval = true
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "cactus-plus"
