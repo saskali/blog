@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://saskali.github.io/blog/2018-08-19-flow/</loc>
+    <lastmod>2018-08-19T22:52:55+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://saskali.github.io/blog/how-to-use-tig/</loc>
     <lastmod>2018-01-25T18:30:51+01:00</lastmod>
   </url>
@@ -13,14 +18,38 @@
   </url>
   
   <url>
+    <loc>https://saskali.github.io/blog/categories/collaboration/</loc>
+    <lastmod>2018-08-19T22:52:55+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saskali.github.io/blog/categories/flow/</loc>
+    <lastmod>2018-08-19T22:52:55+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saskali.github.io/blog/categories/life/</loc>
+    <lastmod>2018-08-19T22:52:55+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://saskali.github.io/blog/</loc>
-    <lastmod>2018-01-25T18:30:51+01:00</lastmod>
+    <lastmod>2018-08-19T22:52:55+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://saskali.github.io/blog/categories/programming/</loc>
     <lastmod>2018-01-25T18:30:51+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saskali.github.io/blog/categories/shift/</loc>
+    <lastmod>2018-08-19T22:52:55+02:00</lastmod>
     <priority>0</priority>
   </url>
   
