@@ -35,6 +35,12 @@
   </url>
   
   <url>
+    <loc>https://saskali.github.io/blog/categories/dev-tools/</loc>
+    <lastmod>2018-01-25T18:30:51+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://saskali.github.io/blog/categories/flow/</loc>
     <lastmod>2018-08-19T22:52:55+02:00</lastmod>
     <priority>0</priority>
@@ -66,24 +72,12 @@
   
   <url>
     <loc>https://saskali.github.io/blog/categories/shift/</loc>
-    <lastmod>2018-08-19T22:52:55+02:00</lastmod>
+    <lastmod>2018-10-02T21:39:05+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://saskali.github.io/blog/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://saskali.github.io/blog/categories/tools/</loc>
-    <lastmod>2018-01-25T18:30:51+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://saskali.github.io/blog/categories/transformation/</loc>
-    <lastmod>2018-10-02T21:39:05+02:00</lastmod>
     <priority>0</priority>
   </url>
   
