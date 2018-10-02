@@ -2,7 +2,7 @@
 title: "Interactive Commit Flow with Tig"
 date: 2018-01-25T18:30:51+01:00
 draft: false
-categories: ["programming", "tools"]
+categories: ["programming", "dev tools"]
 ---
 
 #### Minimal tig keybindings to make the most out of your commit flow.

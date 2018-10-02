@@ -2,7 +2,7 @@
 title: "How Movement is my Medicine"
 date: 2018-10-02T21:39:05+02:00
 draft: false
-categories: ["movement", "connection", "transformation"]
+categories: ["movement", "connection", "shift"]
 ---
 
 ![keep moving](/img/movement.png)
