@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://saskali.github.io/blog/2019-02-25-determination/</loc>
+    <lastmod>2019-02-25T22:35:40+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://saskali.github.io/blog/2018-09-24-movement-medicine/</loc>
     <lastmod>2018-10-02T21:39:05+02:00</lastmod>
   </url>
@@ -35,6 +40,12 @@
   </url>
   
   <url>
+    <loc>https://saskali.github.io/blog/categories/determination/</loc>
+    <lastmod>2019-02-25T22:35:40+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://saskali.github.io/blog/categories/dev-tools/</loc>
     <lastmod>2018-01-25T18:30:51+01:00</lastmod>
     <priority>0</priority>
@@ -53,6 +64,12 @@
   </url>
   
   <url>
+    <loc>https://saskali.github.io/blog/categories/mind/</loc>
+    <lastmod>2019-02-25T22:35:40+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://saskali.github.io/blog/categories/movement/</loc>
     <lastmod>2018-10-02T21:39:05+02:00</lastmod>
     <priority>0</priority>
@@ -60,7 +77,7 @@
   
   <url>
     <loc>https://saskali.github.io/blog/</loc>
-    <lastmod>2018-10-02T21:39:05+02:00</lastmod>
+    <lastmod>2019-02-25T22:35:40+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -72,7 +89,7 @@
   
   <url>
     <loc>https://saskali.github.io/blog/categories/shift/</loc>
-    <lastmod>2018-10-02T21:39:05+02:00</lastmod>
+    <lastmod>2019-02-25T22:35:40+01:00</lastmod>
     <priority>0</priority>
   </url>
   
