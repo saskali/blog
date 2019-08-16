@@ -6,10 +6,21 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Feb 2019 22:35:40 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 16 Aug 2019 00:38:49 +0200</lastBuildDate>
     
 	<atom:link href="https://saskali.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Community with lots of heart</title>
+      <link>https://saskali.github.io/blog/2019-08-16-community-with-heart/</link>
+      <pubDate>Fri, 16 Aug 2019 00:38:49 +0200</pubDate>
+      
+      <guid>https://saskali.github.io/blog/2019-08-16-community-with-heart/</guid>
+      <description>It&amp;rsquo;s been two weeks now since Heart of Clojure. Time for reflections. 🌟
+I feel much movement within, a sense of wonder, a pinch of surprise and a big portion of gratitude. It was a special conference for me.
+The Background Story A while ago, I made a promise to myself. I decided to accept every possibility to speak in front of people. In the past, having all attention on me was one of the most frightening moments.</description>
+    </item>
     
     <item>
       <title>The Power of Determination</title>
@@ -43,10 +54,10 @@ About half a year ago, I kept hearing about something that is called Movement Me
     
     <item>
       <title>Interactive Commit Flow with Tig</title>
-      <link>https://saskali.github.io/blog/how-to-use-tig/</link>
+      <link>https://saskali.github.io/blog/2018-01-25-how-to-use-tig/</link>
       <pubDate>Thu, 25 Jan 2018 18:30:51 +0100</pubDate>
       
-      <guid>https://saskali.github.io/blog/how-to-use-tig/</guid>
+      <guid>https://saskali.github.io/blog/2018-01-25-how-to-use-tig/</guid>
       <description>Minimal tig keybindings to make the most out of your commit flow. It was at my first programming internship that one of my collegues showed me how to use tig. It is a text-mode interface that offers a more interactive and flexibel way of developing compared to using git with the command line only. I have been using it ever since and I feel more productive and in control of my commit flow.</description>
     </item>
     
