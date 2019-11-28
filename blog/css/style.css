@@ -331,18 +331,18 @@ em, i {
 
 .post h1 {
     margin-bottom: 20px;
-    color: #222;
-    font: 300 32px/1.4em "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #FF7F50;
+    font: 300 40px/1.4em "Shadows Into Light", cursive;
 }
 
 .post h2 {
     margin-bottom: 40px;
-    font: 300 24px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font: 300 24px/1.5 "Shadows Into Light", cursive;
     color: #111;
 }
 
 .post h2.headline {
-    font: normal 13px/1.5em "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font: normal 13px/1.5em "Shadows Into Light", cursive;
     margin: -5px 0 0 0;
     color: #b2b9be;
     font-size: 13px;

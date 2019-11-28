@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>community on My New Hugo Site</title>
+    <title>Community on My New Hugo Site</title>
     <link>https://saskali.github.io/blog/categories/community/</link>
-    <description>Recent content in community on My New Hugo Site</description>
+    <description>Recent content in Community on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 16 Aug 2019 00:38:49 +0200</lastBuildDate>

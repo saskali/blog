@@ -6,7 +6,6 @@
     <description>Recent content in Categories on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Aug 2019 00:38:49 +0200</lastBuildDate>
     
 	<atom:link href="https://saskali.github.io/blog/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -21,70 +20,7 @@
     </item>
     
     <item>
-      <title>community</title>
-      <link>https://saskali.github.io/blog/categories/community/</link>
-      <pubDate>Fri, 16 Aug 2019 00:38:49 +0200</pubDate>
-      
-      <guid>https://saskali.github.io/blog/categories/community/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>conference</title>
-      <link>https://saskali.github.io/blog/categories/conference/</link>
-      <pubDate>Fri, 16 Aug 2019 00:38:49 +0200</pubDate>
-      
-      <guid>https://saskali.github.io/blog/categories/conference/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>determination</title>
-      <link>https://saskali.github.io/blog/categories/determination/</link>
-      <pubDate>Mon, 25 Feb 2019 22:35:40 +0100</pubDate>
-      
-      <guid>https://saskali.github.io/blog/categories/determination/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mind</title>
-      <link>https://saskali.github.io/blog/categories/mind/</link>
-      <pubDate>Mon, 25 Feb 2019 22:35:40 +0100</pubDate>
-      
-      <guid>https://saskali.github.io/blog/categories/mind/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>shift</title>
-      <link>https://saskali.github.io/blog/categories/shift/</link>
-      <pubDate>Mon, 25 Feb 2019 22:35:40 +0100</pubDate>
-      
-      <guid>https://saskali.github.io/blog/categories/shift/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>connection</title>
-      <link>https://saskali.github.io/blog/categories/connection/</link>
-      <pubDate>Tue, 02 Oct 2018 21:39:05 +0200</pubDate>
-      
-      <guid>https://saskali.github.io/blog/categories/connection/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>movement</title>
-      <link>https://saskali.github.io/blog/categories/movement/</link>
-      <pubDate>Tue, 02 Oct 2018 21:39:05 +0200</pubDate>
-      
-      <guid>https://saskali.github.io/blog/categories/movement/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>collaboration</title>
+      <title>Collaboration</title>
       <link>https://saskali.github.io/blog/categories/collaboration/</link>
       <pubDate>Sun, 19 Aug 2018 22:52:55 +0200</pubDate>
       
@@ -93,25 +29,43 @@
     </item>
     
     <item>
-      <title>flow&#34;</title>
-      <link>https://saskali.github.io/blog/categories/flow/</link>
-      <pubDate>Sun, 19 Aug 2018 22:52:55 +0200</pubDate>
+      <title>Community</title>
+      <link>https://saskali.github.io/blog/categories/community/</link>
+      <pubDate>Fri, 16 Aug 2019 00:38:49 +0200</pubDate>
       
-      <guid>https://saskali.github.io/blog/categories/flow/</guid>
+      <guid>https://saskali.github.io/blog/categories/community/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>life</title>
-      <link>https://saskali.github.io/blog/categories/life/</link>
-      <pubDate>Sun, 19 Aug 2018 22:52:55 +0200</pubDate>
+      <title>Conference</title>
+      <link>https://saskali.github.io/blog/categories/conference/</link>
+      <pubDate>Fri, 16 Aug 2019 00:38:49 +0200</pubDate>
       
-      <guid>https://saskali.github.io/blog/categories/life/</guid>
+      <guid>https://saskali.github.io/blog/categories/conference/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>dev tools</title>
+      <title>Connection</title>
+      <link>https://saskali.github.io/blog/categories/connection/</link>
+      <pubDate>Tue, 02 Oct 2018 21:39:05 +0200</pubDate>
+      
+      <guid>https://saskali.github.io/blog/categories/connection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Determination</title>
+      <link>https://saskali.github.io/blog/categories/determination/</link>
+      <pubDate>Mon, 25 Feb 2019 22:35:40 +0100</pubDate>
+      
+      <guid>https://saskali.github.io/blog/categories/determination/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dev Tools</title>
       <link>https://saskali.github.io/blog/categories/dev-tools/</link>
       <pubDate>Thu, 25 Jan 2018 18:30:51 +0100</pubDate>
       
@@ -120,11 +74,56 @@
     </item>
     
     <item>
-      <title>programming</title>
+      <title>Flow</title>
+      <link>https://saskali.github.io/blog/categories/flow/</link>
+      <pubDate>Sun, 19 Aug 2018 22:52:55 +0200</pubDate>
+      
+      <guid>https://saskali.github.io/blog/categories/flow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Life</title>
+      <link>https://saskali.github.io/blog/categories/life/</link>
+      <pubDate>Sun, 19 Aug 2018 22:52:55 +0200</pubDate>
+      
+      <guid>https://saskali.github.io/blog/categories/life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mind</title>
+      <link>https://saskali.github.io/blog/categories/mind/</link>
+      <pubDate>Mon, 25 Feb 2019 22:35:40 +0100</pubDate>
+      
+      <guid>https://saskali.github.io/blog/categories/mind/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Movement</title>
+      <link>https://saskali.github.io/blog/categories/movement/</link>
+      <pubDate>Tue, 02 Oct 2018 21:39:05 +0200</pubDate>
+      
+      <guid>https://saskali.github.io/blog/categories/movement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming</title>
       <link>https://saskali.github.io/blog/categories/programming/</link>
       <pubDate>Thu, 25 Jan 2018 18:30:51 +0100</pubDate>
       
       <guid>https://saskali.github.io/blog/categories/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shift</title>
+      <link>https://saskali.github.io/blog/categories/shift/</link>
+      <pubDate>Mon, 25 Feb 2019 22:35:40 +0100</pubDate>
+      
+      <guid>https://saskali.github.io/blog/categories/shift/</guid>
       <description></description>
     </item>
     
