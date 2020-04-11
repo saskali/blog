@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
@@ -6,10 +6,26 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Nov 2019 12:59:18 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2020 11:55:30 +0100</lastBuildDate>
     
 	<atom:link href="https://saskali.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Surrender to Life</title>
+      <link>https://saskali.github.io/blog/2020-04-11-surrender-to-life/</link>
+      <pubDate>Sat, 11 Apr 2020 11:55:30 +0100</pubDate>
+      
+      <guid>https://saskali.github.io/blog/2020-04-11-surrender-to-life/</guid>
+      <description>I feel a burning sensation in the center of my chest, at the same time as calmness is softly raining down on me. Making an effort to breath deeply brings ease.
+Clarity, confusion, chaos, pain.
+Knowingness, vibration, trust, love.
+I commit to live this life fully.
+I commit to express my truth.
+I surrender to life force.
+I bow to the divine.
+My deepest committment is to follow the vibration of life force.</description>
+    </item>
     
     <item>
       <title>How I envision my work life in tech</title>

@@ -6,12 +6,13 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		
 		
-		<meta name="generator" content="Hugo 0.40.1" />
+		<meta name="generator" content="Hugo 0.69.0-DEV" />
 		<title>Interactive Commit Flow with Tig &middot; My New Hugo Site</title>
 		<link rel="shortcut icon" href="https://saskali.github.io/blog/images/favicon.ico">
 		<link rel="stylesheet" href="https://saskali.github.io/blog/css/style.css">
 		<link rel="stylesheet" href="https://saskali.github.io/blog/css/highlight.css">
-		<link href="https://fonts.googleapis.com/css?family=Shadows+Into+Light" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Shadows+Into+Light+Two" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">  
 		
 
 		
@@ -51,40 +52,24 @@
                 </header>
                 
                 <section id="post-body">
-                    
-
-<h4 id="minimal-tig-keybindings-to-make-the-most-out-of-your-commit-flow">Minimal tig keybindings to make the most out of your commit flow.</h4>
-
+                    <h4 id="minimal-tig-keybindings-to-make-the-most-out-of-your-commit-flow">Minimal tig keybindings to make the most out of your commit flow.</h4>
 <p>It was at my first programming internship that one of my collegues showed me how to use tig. It is a text-mode interface that offers a more interactive and flexibel way of developing  compared to using git with the command line only. I have been using it ever since and I feel more productive and in control of my commit flow. Since a few people have kept asking me about it, I decided to write this blog post.</p>
-
 <p>Tig has a lot of features most of which I will ignore. I am going to describe the minimal amount of steps to make tig part of your everyday workflow. I find it most useful for selectively deciding which changes I want to make part of my commit and which ones I want to ignore.</p>
-
 <h3 id="how-can-i-use-tig">How can I use tig?</h3>
-
 <p>To get tig setup on your machine, follow <a href="https://github.com/jonas/tig/blob/master/INSTALL.adoc">these</a> installation instructions. For Ubuntu users:</p>
-
 <pre><code>sudo apt install tig
 </code></pre>
-
 <p>For Mac users:</p>
-
 <pre><code>brew install tig --HEAD
 </code></pre>
-
 <p>Equivalent of <code>git status</code></p>
-
 <pre><code>tig status
 </code></pre>
-
 <p>Show my commit history</p>
-
 <pre><code>tig --all
 </code></pre>
-
 <h3 id="navigation">Navigation</h3>
-
 <p>There are six essential keys for basic navigating through tig.</p>
-
 <table>
 <thead>
 <tr>
@@ -92,34 +77,27 @@
 <th>action</th>
 </tr>
 </thead>
-
 <tbody>
 <tr>
 <td>↑ ↓</td>
 <td>navigation to select file</td>
 </tr>
-
 <tr>
 <td>j / k</td>
 <td>navigation within file</td>
 </tr>
-
 <tr>
 <td>enter</td>
 <td>open changes of selected file</td>
 </tr>
-
 <tr>
 <td>q</td>
 <td>go back</td>
 </tr>
 </tbody>
 </table>
-
 <h3 id="choose-code-to-commit">Choose Code to Commit</h3>
-
 <p>These three keybindings are the ones to remember for deciding what will be part of your commit.</p>
-
 <table>
 <thead>
 <tr>
@@ -127,27 +105,22 @@
 <th>action</th>
 </tr>
 </thead>
-
 <tbody>
 <tr>
 <td>u</td>
 <td>move code between staging area and working directory</td>
 </tr>
-
 <tr>
 <td>!</td>
 <td>discard changes</td>
 </tr>
-
 <tr>
 <td>\</td>
 <td>make a new split in the code</td>
 </tr>
 </tbody>
 </table>
-
 <h3 id="i-want-to-learn-more-about-tig">I want to learn more about tig</h3>
-
 <p>Yes, tig can do much more. If you&rsquo;re simply looking for a more interactive way of making commits, these simple steps can get you to a more efficient work flow. For more information, check out this <a href="https://devhints.io/tig">cheatsheet</a> and find more detailed information on <a href="https://jonas.github.io/tig/">tig&rsquo;s website</a>.</p>
 
                 </section>
@@ -163,7 +136,7 @@
     
     <p class="small">
     
-       © Copyright 2019 <i class="fa fa-heart" aria-hidden="true"></i> 
+       © Copyright 2020 <i class="fa fa-heart" aria-hidden="true"></i> 
     
     </p>
     <p class="small">
